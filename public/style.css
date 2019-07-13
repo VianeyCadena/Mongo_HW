@@ -1,0 +1,20 @@
+#wrapper {
+    margin: 50px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: yellow;
+}
+
+body {
+    background-image:url("background.jpg");
+}
+
+.view-notes {
+    margin-left: 85rem;
+}
+
+h5{
+    margin-left: 3rem;
+}
